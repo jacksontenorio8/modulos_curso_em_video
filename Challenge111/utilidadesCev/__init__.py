@@ -1,0 +1,1 @@
+from Challenge111.utilidadesCev  import moeda, dado
